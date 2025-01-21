@@ -1,0 +1,15 @@
+
+/* for components */
+
+h1{
+  color:brown
+  
+}
+p{
+  background-color: blanchedalmond;
+}
+.register-form{
+  background-color: rgb(224, 165, 92);
+  margin: 10px 10px 10px 10px;
+  padding: 5px;
+}

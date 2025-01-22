@@ -28,7 +28,7 @@ function Home() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="#">
-                  Feature
+                  Features
                 </a>
               </li>
               <li className="nav-item">
